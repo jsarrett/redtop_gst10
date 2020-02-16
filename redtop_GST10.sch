@@ -396,11 +396,11 @@ L Device:R_Small_US R5
 U 1 1 5E331562
 P 5850 3200
 F 0 "R5" V 6055 3200 50  0000 C CNN
-F 1 "10k" V 5964 3200 50  0000 C CNN
+F 1 "1k" V 5964 3200 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 5850 3200 50  0001 C CNN
 F 3 "https://www.seielect.com/catalog/sei-cf_cfm.pdf" H 5850 3200 50  0001 C CNN
 F 4 "Digi-Key" H 5850 3200 50  0001 C CNN "Supplier"
-F 5 "CF14JT10K0CT-ND" H 5850 3200 50  0001 C CNN "Supplier Part Number"
+F 5 "CF14JT1K00CT-ND" H 5850 3200 50  0001 C CNN "Supplier Part Number"
 	1    5850 3200
 	0    -1   -1   0   
 $EndComp
